@@ -24,3 +24,8 @@ echo '<img src="' . $PromptPayQR->generate() . '" />';
 ผู้จัดทำอนุญาตให้นำไปใช้งาน และแจกจ่ายได้โดยคงไว้ซึ่งที่มาของเนื้อหา ห้ามมีให้นำไปใช้งานในเชิงพาณีย์โดยตรง เช่น การนำไปจำหน่าย
 
  - http://www.ioxhop.com/
+
+https://stackoverflow.com/questions/17527713/force-browser-to-download-image-files-on-click/17527821
+https://www.youtube.com/watch?v=qtQ9TvQLKjc
+https://drv.tw/
+https://drv.tw/~sonjai8322@gmail.com/gd/?a=admin#authed=1
