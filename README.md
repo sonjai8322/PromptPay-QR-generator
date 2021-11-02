@@ -29,3 +29,7 @@ https://stackoverflow.com/questions/17527713/force-browser-to-download-image-fil
 https://www.youtube.com/watch?v=qtQ9TvQLKjc
 https://drv.tw/
 https://drv.tw/~sonjai8322@gmail.com/gd/?a=admin#authed=1
+
+https://xjboazfbxvimdguwwsgigw-on.drv.tw/PromptPay-QR-generator-master/
+
+https://bit.ly/3bvCpCH
