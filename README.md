@@ -33,3 +33,6 @@ https://drv.tw/~sonjai8322@gmail.com/gd/?a=admin#authed=1
 https://xjboazfbxvimdguwwsgigw-on.drv.tw/PromptPay-QR-generator-master/
 
 https://bit.ly/3bvCpCH
+
+How to Save Gallery Images on Mobile Devices
+https://help.cloudspot.io/en/articles/114610-how-to-save-gallery-images-on-mobile-devices
